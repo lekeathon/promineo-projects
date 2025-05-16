@@ -1,0 +1,33 @@
+.batman-1 {
+    background-color:grey;
+    color:black;
+    font-size: 20px;
+    padding: 10px;
+}
+.batman-2 {
+    background-color:rgb(174, 127, 8);
+    color:white;
+    font-size: 20px;
+    padding: 10px;
+}
+.spiderman-1 {
+    background-color:rgb(23, 23, 185);
+    color:white;
+    font-size: 20px;
+    padding: 10px;
+}
+.spiderman-2 {
+    background-color:rgb(139, 10, 10);
+    color:white;
+    font-size: 20px;
+    padding: 10px;
+}
+.table {
+    background-color: black;
+}
+.header {
+    color:white;
+    font-size: 50px;
+  
+  
+}
