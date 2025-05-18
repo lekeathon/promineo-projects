@@ -26,8 +26,33 @@
     background-color: black;
 }
 .header {
+    font-style: italic;
     color:white;
     font-size: 50px;
-  
-  
+  }
+  #main-body {
+    background-color: rgb(187, 160, 12);
+  }
+  p{
+    font-size: 30px;
+  }
+  #spiderman-v-batman {
+    display:block;
+    margin: auto;
+}
+.lists {
+font-size: 30px;
+background-color: rgb(160, 13, 13);
+border: 3px dotted;
+width: max-content;
+}
+#header {
+    font-size:50px;
+    text-align: center;
+    text-decoration: underline;
+    font-style:oblique;
+}
+#spiderman {
+    display: block;
+    float: right;
 }
